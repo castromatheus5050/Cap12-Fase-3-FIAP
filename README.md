@@ -46,9 +46,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 - <b>.github</b>: Nesta pasta ficarão os arquivos de configuração específicos do GitHub que ajudam a gerenciar e automatizar processos no repositório.
 
 - <b>src</b>: aqui estão os arquivos relacionados a elementos não-estruturados deste repositório, como imagens.
-/src: códigos-fonte do projeto.
-/docs: documentação do projeto, incluindo a descrição do sistema e explicações sobre cada sensor.
-/tests: testes automatizados ou manuais para validar o funcionamento do projeto.
+
 - <b>config</b>: Posicione aqui arquivos de configuração que são usados para definir parâmetros e ajustes do projeto.
 
 - <b>docs</b>: Documentação do projeto, incluindo a descrição do sistema e explicações sobre cada sensor.
